@@ -34,6 +34,7 @@
 
 참고:
 <http://mirocommunity.readthedocs.io/en/latest/internals/branching-model.html>
+
 <http://rumblefish.tistory.com/65>
 
 1. 전제 조건
