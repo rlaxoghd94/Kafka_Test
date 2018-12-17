@@ -1,11 +1,11 @@
-#Apache Kafka Test Directory
+# Apache Kafka Test Directory
 ### By. Nic Taehong Kim
 
-###Purpose
+### Purpose
  - fully comprehend KAFKA
  - fully manipulate KAFKA
 
-####References
+#### References
  - Netflix
  - Facebook
  - Etc
