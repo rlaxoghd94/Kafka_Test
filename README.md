@@ -20,7 +20,7 @@
  - Which **development process** to be used
  	* Waterfall?
 	* etc
- - What kind of **database** is the most suitable one when integrating Apache Kafka?
+ - What kind of **database** is the most suitable when integrating Apache Kafka?
  - Database Pros and Cons:
  	* Cassadra
 	* MongoDB
