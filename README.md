@@ -10,7 +10,22 @@
  - Facebook
  - Etc
 
+#### Weigh-needed selections
+ - Hadoop vs MongoDB
+ - Front-End: Mobile or Web
 
+#### Research Needed
+ - **TDD** (Test Driven Development; via python?)
+ - **git** manipulation (with branching and merging)
+ - Which **development process** to be used
+ 	* Waterfall?
+	* etc
+ - What kind of **database** is the most suitable one when integrating Apache Kafka?
+ - Database Pros and Cons:
+ 	* Cassadra
+	* MongoDB
+	* Hadoop
+ - Best Kafka implementation requires more than one server node, **__THEN__** where should we get the resources to run multiple servers?
 
 
 
