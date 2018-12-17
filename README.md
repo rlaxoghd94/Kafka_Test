@@ -33,9 +33,9 @@
 --------------------
 
 참고:
-<http://mirocommunity.readthedocs.io/en/latest/internals/branching-model.html>
-
-<http://rumblefish.tistory.com/65>
+ - <http://mirocommunity.readthedocs.io/en/latest/internals/branching-model.html> Git Branching naming convention - Eng
+ - <http://rumblefish.tistory.com/65> Git Branching - Kor
+ - <https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches> Git CheatSheet
 
 1. 전제 조건
 모든 활동은 GitHub에서 제공하는 Issue로 등록한다. hotfix, feature, issure 브랜치는 GitHub에 등록된 <issue_number>를 기준으로 생성한다.
