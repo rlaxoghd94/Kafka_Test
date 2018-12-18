@@ -9,6 +9,10 @@ CORS(app)
 def index():
 	return 'Hello World!'
 
+@app.route('/gitTest')
+def index():
+	return render_template('gittest.html')
+
 if __name__ == '__main__' :
 	app.run( debug=True, host='0.0.0.0', port=int( os.getenv( 'VCAP_APP_PORT', '8000' )))
 
