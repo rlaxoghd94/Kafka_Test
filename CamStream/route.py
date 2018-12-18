@@ -1,16 +1,16 @@
-import flask from Flask, render_template
+from flask import Flask, render_template
 import os
 from flask_cors import CORS
 
-app = Flask( __name__, templates_folder='templates')
+app = Flask( __name__, template_folder='templates')
 CORS(app)
 
 @app.route('/')
 def index():
-	return 'Hello World!'
+	return 
 
 @app.route('/gitTest')
-def index():
+def gitTest():
 	return render_template('gittest.html')
 
 if __name__ == '__main__' :
