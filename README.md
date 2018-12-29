@@ -29,4 +29,4 @@
 
 
 
- ## [Git Doc] (https://github.com/rlaxoghd94/Kafka_Test/blob/master/Docs/git.md)
+ ## [Git Doc](https://github.com/rlaxoghd94/Kafka_Test/blob/master/Docs/git.md)
