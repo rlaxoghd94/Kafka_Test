@@ -27,6 +27,7 @@
 	* Hadoop
  - Best Kafka implementation requires more than one server node, **__THEN__** where should we get the resources to run multiple servers?
 
+## Kafka Concept Summary
+![alt-text](https://github.com/rlaxoghd94/Kafka_Test/block/master/Docs/kafka_doc.jpeg "Kafka Summary")
 
-
- ## [Git Doc](https://github.com/rlaxoghd94/Kafka_Test/blob/master/Docs/git.md)
+## [Git Doc](https://github.com/rlaxoghd94/Kafka_Test/blob/master/Docs/git.md)
